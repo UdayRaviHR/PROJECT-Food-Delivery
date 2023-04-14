@@ -4,6 +4,7 @@ project on food delivery coded using python
   READ ME:
   
   * To Login Admin use Below Details:
+  
      username = 'HackerAdmin'
      
      password = 'welcomehacker'
