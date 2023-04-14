@@ -1,2 +1,2 @@
 # PROJECT-Food-Delivery
-project on food delivery code using python
+project on food delivery coded using python
