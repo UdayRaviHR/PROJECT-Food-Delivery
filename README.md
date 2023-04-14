@@ -5,6 +5,7 @@ project on food delivery coded using python
   
   * To Login Admin use Below Details:
      username = 'HackerAdmin'
+     
      password = 'welcomehacker'
 
 ->User Login Details are available in user_reg_data.csv
